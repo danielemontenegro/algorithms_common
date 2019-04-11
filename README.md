@@ -1,1 +1,1 @@
-# machine_learning
+# Repositorio criado para os algoritmos de machine learning.
